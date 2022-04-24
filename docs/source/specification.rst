@@ -25,35 +25,36 @@ Data parameters needed to model the proposed process of executing economic trans
 Participants 
 -------------
 
-- ``EA``  unique description of entity A, the Supplier.
-- ``EB`` unique description of entity A, the Customer.
+- ``EA``:  unique description of entity A, the Supplier.
+- ``EB``: unique description of entity A, the Customer.
 
 .. _product_and_service:
 
 Product/Service
 ---------------
 
-- ``PSDesc`` this data describes the specific product or services subject to the transaction. 
-- ``TAmt``
-- ``TPS``  
+- ``PSDesc``: this data describes the specific product or services subject to the transaction. 
+- ``TAmt``: this data identifies the total estimated amount of the transaction for the delivery of goods or services; this amount is stipulated in the contract between entities A and entity B.
+- ``TPS``: this data identifies the transaction amount associated with the delivery of a product or service at a specific point in time; note that this amount may be different from the agreed amount of the transaction in case of partial delivery of products or service.
+ 
+.. _acceptance_of_product_and_service:
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+Acceptaance of Product/Service
+---------------
+- ``AD``: **Acceptance Document.** This is confirmation typically done in writing signed by the Entity B who acknowledging to Entity A the receipt of products, or the conformity of the receiving the services in accordance with the agreed terms of the transaction.
 
-.. autofunction:: lumache.get_random_ingredients
+.. _payment:
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+Payment
+-------
+- ``TP``: Transaction payment or transaction settlement amount. Participants in a transaction pay typically in fiat money for the delivery of a certain product or services by means of a bank payment order or credit card. As an alternative, in a blockchain setting, this settlement can be done using tokens or cryptocurrencies such as Bitcoin or Ethereum. Note that this amount may be different from TS invoiced by the EA in case of partial payment. 
 
-.. autoexception:: lumache.InvalidKindError
+.. _supporting_documents:
 
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
-
+Supporting documents
+-------
+- ``Invoice``: When a product is delivered or a service is rendered, the Entity A issue an invoice including the following data points:
+- etc etc
 
 .. autosummary::
    :toctree: generated
