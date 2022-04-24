@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'Universal Contract on Blockchain'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
