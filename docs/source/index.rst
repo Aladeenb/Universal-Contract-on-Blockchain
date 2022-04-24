@@ -5,8 +5,7 @@ Universal Contract on Blockchain
 razvan.mihai.phd@stud.etti.upb.ro
 
 
-Check out the :doc:`introduction` section for further information, including
-how to :ref:`specification` the project.
+Check out the :doc:`specification`.
 
 .. note::
 

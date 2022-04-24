@@ -39,7 +39,7 @@ Product/Service
  
 .. _acceptance_of_product_and_service:
 
-Acceptaance of Product/Service
+Acceptance of Product/Service
 ---------------
 - ``AD``: **Acceptance Document.** This is confirmation typically done in writing signed by the Entity B who acknowledging to Entity A the receipt of products, or the conformity of the receiving the services in accordance with the agreed terms of the transaction.
 
