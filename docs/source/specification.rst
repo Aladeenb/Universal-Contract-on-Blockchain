@@ -23,10 +23,19 @@ Data parameters needed to model the proposed process of executing economic trans
 .. _participants:
 
 Participants 
-----------------
+-------------
 
-- ``EA``  unique description of entity A, the Supplier
-- ``EB`` unique description of entity A, the Customer
+- ``EA``  unique description of entity A, the Supplier.
+- ``EB`` unique description of entity A, the Customer.
+
+.. _product_and_service:
+
+Product/Service
+---------------
+
+- ``PSDesc`` this data describes the specific product or services subject to the transaction. 
+- ``TAmt``
+- ``TPS``  
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
