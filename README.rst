@@ -1,2 +1,3 @@
-Link for the the documentation:
-https://testing-universal-contract-on-blockchain.readthedocs.io
+- Documentation sample using **ReadTheDocs** : https://testing-universal-contract-on-blockchain.readthedocs.io
+- **ReadTheDocs** documentation: https://docs.readthedocs.io
+- ``.rst`` (ReStructuredText) online compiler: https://livesphinx.herokuapp.com/
