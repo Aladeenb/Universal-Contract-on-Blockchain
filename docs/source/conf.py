@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'Universal Contract on Blockchain'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2022, The team'
+author = 'The team'
 
 release = '0.1'
 version = '0.1.0'
