@@ -2,12 +2,11 @@
 
 * [Universal Contract on Blockchain](README.md)
 
-## The Company
+## Introduction
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [Abstract](introduction/abstract.md)
 
-## The Formal Stuff
+## Specification
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Introduction](specification/introduction.md)
+* [Data Parameters](specification/data-parameters.md)

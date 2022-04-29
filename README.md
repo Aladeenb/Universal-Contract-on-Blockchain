@@ -1,6 +1,5 @@
 ---
 description: Ethereum
-coverY: 0
 ---
 
 # Universal Contract on Blockchain
@@ -8,3 +7,7 @@ coverY: 0
 ## Razvan Mihai
 
 [razvan.mihai.phd@stud.etti.upb.ro](mailto:razvan.mihai.phd@stud.etti.upb.ro)
+
+{% hint style="info" %}
+This page is still in progress.
+{% endhint %}
