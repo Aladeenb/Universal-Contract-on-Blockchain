@@ -2,11 +2,9 @@
 description: Ethereum
 ---
 
-# Universal Contract on Blockchain
+# Universal Smart Contract
 
-## Razvan Mihai
-
-[razvan.mihai.phd@stud.etti.upb.ro](mailto:razvan.mihai.phd@stud.etti.upb.ro)
+#### SPECIFICATION REQUIREMENTS
 
 {% hint style="info" %}
 This page is still in progress.
