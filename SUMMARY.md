@@ -12,7 +12,7 @@
 
 ## Overall Description
 
-* [Product Perspective](overall-description/product-perspective/README.md)
+* [Product Perspective](overall-description/product-perspective.md)
   * [Supplier Information](overall-description/product-perspective/supplier-information.md)
   * [Customer Information](overall-description/product-perspective/customer-information.md)
   * [Duration of the contract](overall-description/product-perspective/duration-of-the-contract.md)
