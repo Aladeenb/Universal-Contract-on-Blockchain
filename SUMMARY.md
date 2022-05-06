@@ -12,7 +12,11 @@
 
 ## Overall Description
 
-* [Product Perspective](overall-description/product-perspective.md)
+* [Product Perspective](overall-description/product-perspective/README.md)
+  * [Supplier Information](overall-description/product-perspective/supplier-information.md)
+  * [Customer Information](overall-description/product-perspective/customer-information.md)
+  * [Duration of the contract](overall-description/product-perspective/duration-of-the-contract.md)
+  * [Amount to be paid each month](overall-description/product-perspective/amount-to-be-paid-each-month.md)
 * [Product features](overall-description/product-features.md)
 * [User Class and Characteristics](overall-description/user-class-and-characteristics.md)
 * [Operating Environment](overall-description/operating-environment.md)

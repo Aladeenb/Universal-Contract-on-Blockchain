@@ -4,22 +4,12 @@ Users of the system should be distinguished between being a supplier and being a
 
 Your public address is key, but you should not enter that manually that would kill the purpose of signing a transaction on chain. You would need the public address of the customer, the contract duration and the amount to be paid each month. In the early stages there are also parameters like proposed terms by the supplier, but they are optional as they add no value to the functionality.
 
-&#x20;
+* Make a new contract:
+  * Customer public address.
+  * Contract duration (Start and End date).
+  * Amount to be paid each month.
+* View the contracts individually.
+* Accept the terms of the contract (Only as the customer).
+* Make payment on the contract (Only as the customer).
+* View the contract on explorer for validity and history.
 
-§  Make a new contract
-
-·         Customer public address
-
-·         Contract duration (Start and End date)
-
-·         Amount to be paid each month
-
-&#x20;
-
-§  View the contracts individually
-
-§  Accept the terms of the contract (Only as the customer)
-
-§  Make payment on the contract (Only as the customer)
-
-§  View the contract on explorer for validity and history
